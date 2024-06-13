@@ -1,0 +1,38 @@
+body{
+    background-color: #c8b3ba;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 17px;
+}
+
+h1{
+    color: #68104c;
+    background-color: #B3679B;
+    border: 1.5px dotted #ECC8AE;
+    font-family: "Roboto Serif", serif;
+    font-size: 50px;
+    padding: 25px 50px 15px 12.5px;
+    margin: 1px ;
+}
+
+h2{
+    background-color: #DDFFD9;
+    color: #6c4b5e; 
+    padding: 10px 10px 10px 10px;
+    margin: 1.5px ;
+}
+
+h3{
+    font-family: "Roboto Serif", serif;
+    font-size: 28px;
+    margin: 2px;
+
+}
+
+#h-construccion{
+    background-color: #BF074E;
+    color: white;
+}
+
+p#p-construccion{
+    color: white;
+    background-color: #938389;}
